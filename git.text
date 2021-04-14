@@ -1,3 +1,0 @@
-git init
-git config --global user.name "watchping"
-git config --global user.email "watchping@163.com"
